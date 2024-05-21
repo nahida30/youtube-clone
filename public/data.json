@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://i.ibb.co/Zg7sbrL/img1.jpg",
+        "userImage": "https://example.com/user1.jpg",
+        "userName": "John Doe",
+        "userEmail": "john.doe@example.com",
+        
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/3kthrmt/img13.jpg"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://i.ibb.co/t43n51v/img3.jpg",
+        "userImage": "https://example.com/user2.jpg",
+        "userName": "Jane Smith",
+        "userEmail": "jane.smith@example.com",
+        "views": "150k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/J7w8mfb/img14.jpg"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://i.ibb.co/DCKRTD0/img11.jpg",
+        "userImage": "https://example.com/user3.jpg",
+        "userName": "Bob Johnson",
+        "userEmail": "bob.johnson@example.com",
+        "views": "80k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/C5nXbL7/img15.jpg"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://i.ibb.co/LhjbHWG/img2.jpg",
+        "userImage": "https://example.com/user4.jpg",
+        "userName": "Alice Brown",
+        "userEmail": "alice.brown@example.com",
+        "views": "120k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/4jvRsz5/img17.jpg"
+      },
+      {
+        "id": 5,
+        "thumbnail": "https://i.ibb.co/VWHwDhV/img4.jpg",
+        "userImage": "https://example.com/user5.jpg",
+        "userName": "Sam Wilson",
+        "userEmail": "sam.wilson@example.com",
+        "views": "90k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/T2Pzj3Y/img16.jpg"
+      },
+      {
+        "id": 6,
+        "thumbnail": "https://i.ibb.co/FK1W4Gy/img12.png",
+        "userImage": "https://example.com/user6.jpg",
+        "userName": "Emily Davis",
+        "userEmail": "emily.davis@example.com",
+        "views": "110k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/TcGT0YJ/img18.jpg"
+      },
+      {
+        "id": 7,
+        "thumbnail": "https://i.ibb.co/z5qs2cW/img9.jpg",
+        "userImage": "https://example.com/user7.jpg",
+        "userName": "Michael White",
+        "userEmail": "michael.white@example.com",
+        "views": "70k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/Hr3MCxz/img19.jpg"
+      },
+      {
+        "id": 8,
+        "thumbnail": "https://i.ibb.co/RvyhnRG/img8.jpg",
+        "userImage": "https://example.com/user8.jpg",
+        "userName": "Olivia Green",
+        "userEmail": "olivia.green@example.com",
+        "views": "130k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/xXR0cWr/img20.jpg"
+      },
+      {
+        "id": 9,
+        "thumbnail": "https://i.ibb.co/VWhyx08/img6.jpg",
+        "userImage": "https://example.com/user9.jpg",
+        "userName": "Tom Anderson",
+        "userEmail": "tom.anderson@example.com",
+        "views": "95k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/yR8hYNT/img21.jpg"
+      },
+      {
+        "id": 10,
+        "thumbnail": "https://i.ibb.co/zPVpNNG/img7.jpg",
+        "userImage": "https://example.com/user10.jpg",
+        "userName": "Eva Miller",
+        "userEmail": "eva.miller@example.com",
+        "views": "85k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/yBg1ZkC/img22.jpg"
+      },
+      {
+        "id": 11,
+        "thumbnail": "https://i.ibb.co/B4w7Qp0/img5.jpg",
+        "userImage": "https://example.com/user10.jpg",
+        "userName": "Eva Miller",
+        "userEmail": "eva.miller@example.com",
+        "views": "85k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/bRnrL3N/img23.jpg"
+      },
+      {
+        "id": 12,
+        "thumbnail": "https://i.ibb.co/CHVRc7F/img10.jpg",
+        "userImage": "https://example.com/user10.jpg",
+        "userName": "Eva Miller",
+        "userEmail": "eva.miller@example.com",
+        "views": "85k",
+        "timeAgo": " 100k views • 5 hours ago",
+        "sideCardImage": "https://i.ibb.co/J7w8mfb/img14.jpg"
+      }
+
+      
+      
+      
+]

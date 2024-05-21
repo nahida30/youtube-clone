@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://i.ibb.co/t43n51v/img3.jpg",
+        "userImage": "https://example.com/user1.jpg",
+        "userName": "John Doe",
+        "userEmail": "john.doe@example.com",
+        
+        "timeAgo": " 100k views • 5 hours ago"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://i.ibb.co/t43n51v/img3.jpg",
+        "userImage": "https://example.com/user2.jpg",
+        "userName": "Jane Smith",
+        "userEmail": "jane.smith@example.com",
+        "views": "150k",
+        "timeAgo": " 100k views • 5 hours ago"
+      }
+      
+      
+      
+]
